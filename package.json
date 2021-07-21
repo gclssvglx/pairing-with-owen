@@ -1,0 +1,14 @@
+{
+  "name": "pairing-with-owen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Owen Jones & Graham Lewis",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.8.0"
+  }
+}
